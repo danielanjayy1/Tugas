@@ -1,0 +1,7 @@
+{
+  "name": "list-daniel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
